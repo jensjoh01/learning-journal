@@ -32,3 +32,5 @@ This ended up being a lot harder than I expected.  We really fumbled our way thr
 
 ### Day 15
 Project teams and git merge conflicts.  Git merge conflicts are much easier to deal with using .md files than actual code but the exercise was definitely useful. It's nice to see that even when trying to break git it really isnt that hard to fix.  Got a start on our project but we need to do some feasibility testing...We're not clear on what we want the outcome to be so pretty difficult to plan in that case.
+
+### Day 16
