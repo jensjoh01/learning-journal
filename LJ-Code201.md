@@ -34,3 +34,9 @@ This ended up being a lot harder than I expected.  We really fumbled our way thr
 Project teams and git merge conflicts.  Git merge conflicts are much easier to deal with using .md files than actual code but the exercise was definitely useful. It's nice to see that even when trying to break git it really isnt that hard to fix.  Got a start on our project but we need to do some feasibility testing...We're not clear on what we want the outcome to be so pretty difficult to plan in that case.
 
 ### Day 16
+Day 1 of project week.  Started working on bubble sort.  Got it functional, switched to
+shuffle algorithm. Had a lot of fun working with shuffle algorithm, loved using cards since
+it felt actually like a real world application.
+
+### Day 17
+Day 2 of project week, struggled getting a quicksort algorithm to display the steps...Got shuffle sort to about 75% complete. Manipulating css and html in javascript is by far my favorite way to work with the DOM.
