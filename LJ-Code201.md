@@ -40,3 +40,9 @@ it felt actually like a real world application.
 
 ### Day 17
 Day 2 of project week, struggled getting a quicksort algorithm to display the steps...Got shuffle sort to about 75% complete. Manipulating css and html in javascript is by far my favorite way to work with the DOM.
+
+### Day 18
+Day 3 of project week, continued quicksort struggle, scrapped it and hardcoded a better visual display.
+
+### Day 19
+Day 4 of project week, got quicksort and fisher yates 100%. Added code display to fisher yates which I'm pretty please with. Got everything stitched together and looking good.
