@@ -46,3 +46,6 @@ Day 3 of project week, continued quicksort struggle, scrapped it and hardcoded a
 
 ### Day 19
 Day 4 of project week, got quicksort and fisher yates 100%. Added code display to fisher yates which I'm pretty please with. Got everything stitched together and looking good.
+
+### Day 20
+Presentation day. Today we just got ready to present, went over it once more and then presented right after lunch.  The presentation seemed to go well, I'm looking forward to watching the video to improve my public speaking. Now time to take a break and prepare for 301.
